@@ -1,0 +1,9 @@
+PROYECTO ANDROID: MASTER PLAYER
+================================
+Instrucciones para compilar tu APK en GitHub:
+
+1. Descomprime este archivo Master-Android-APK.zip en una carpeta.
+2. Entra a tu repositorio nuevo en GitHub.com y haz clic en "uploading an existing file".
+3. Arrastra TODAS las carpetas y archivos extraídos (.github, app, build.gradle, settings.gradle, gradle.properties).
+4. Presiona el botón verde "Commit changes".
+5. Ve a la pestaña "Actions" en tu repositorio, espera a que termine en verde y descarga "Master-APK" en la sección Artifacts.
